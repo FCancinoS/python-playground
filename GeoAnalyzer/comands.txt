@@ -1,0 +1,6 @@
+Comandos para empaquetar el archivo con PyInstaller
+
+pip install     PyInstaller --En caso de que no se tenga
+
+pyinstaller --onefile --windowed --icon=../logo.ico sectorizer.py
+
